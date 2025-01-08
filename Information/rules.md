@@ -43,6 +43,17 @@ Format | Character Information
 
 9. **If you are a champion** you must renew your allegiance to your god weekly, if you do, during that week you cannot disobey the God you follow under a binding contract
 
-10. **Characters are recognisable by voices and skins**, You cannot change your skin but you can mask yourself with armor as nametags are turned off. 
+10. **Characters are recognisable by voices and skins**, You cannot change your skin but you can mask yourself with armor as nametags are turned off.
 
 ## How a Character can die?
+Characters may only die in **Active-Hours**
+
+1. Breaking FearRP, when your character is outnumbered 4 to 1 you can be placed under fear-rp, If you disobey the people who have put you under FearRP' demands then they can kill you and it will count as a character-death, The demands must be reasonable and cannot be something like jump into this volcano. for every 1 person you need 4 to outnumber them. to capture 3 people you need 12
+
+
+
+
+
+
+
+
