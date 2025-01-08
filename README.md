@@ -8,4 +8,4 @@ If you have a fix or improvement, please make a pull request for it. We apprecia
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD 3-Clause License. See the [LICENSE](LICENSE) file for details.
