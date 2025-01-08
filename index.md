@@ -5,4 +5,8 @@ order: 10000
 
 # Vikingcraft Docs
 
-here cool
+image with text:
+![image with text](/static/placeholder-image.png)
+
+image without text:
+![](/static/placeholder-image.png)
