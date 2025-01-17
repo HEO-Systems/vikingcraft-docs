@@ -1,10 +1,6 @@
 ---
 order: 1000
 ---
-
-
-
-
 # How to play the Server
 So if your reading this you need advice or are confused on how you play the server in a way that is fun and also doesn't break the rules.
 
