@@ -1,3 +1,8 @@
+---
+icon: git-branch
+order: 9999
+---
+
 # General Rules
 ```Vikingcraft has an extensive set of rules to ensure everyone has fun and nothing is abused```
 ## Basic Rules
@@ -14,6 +19,12 @@
 6. **Bug Abusing** | Failing to report a bug while knowing about it. Or actively exploiting it is a punishable offense
 
 7. **Metagaming** | Using information not obtained during lore during active-hours by your character in roleplay / in-lore
+
+8. **Builds must be Viking-based** | Self Explanatory
+
+9. **Castles can't have more than 2 Gates**, Capital Castles can have 3 Gates
+
+10. **Siege Towers may not be over 25 blocks tall**, This also means your walls cant be over 25 blocks tall unless approved by Staff 
 
 ## Character Rules
 Characters are who you play on the server, characters create stories
@@ -84,9 +95,7 @@ To start off, this is a Viking server, war is frequent and it is even encouraged
 
 7. **If one side of a raid doesn't have their leader online then they cannot capture the oppositions leader**. by leader, this is refering to the ruler of the land, not the Nation. So if IgnWu is the Jarl of Jomsborg. and he is not online. You cannot capture a leader who raids you. This is to keep it fair and interesting.
 
-8. **Builds must be Viking-based** | Self Explanatory
 
-9. **Castles can't have more than 2 Gates**, Capital Castles can have 3 Gates
 
 #### Conflict Rules:
 1. You cannot instantly start wars over lands. Instead negotiate, Raid the lands you want to occupy atleast a few times. Then eventually if you've tried all your cards. **Threaten to go to War.**
